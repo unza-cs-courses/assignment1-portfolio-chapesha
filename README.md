@@ -127,9 +127,9 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Chapesha Davies
+**Student ID:** 2021452182
+**Design Theme:** A clean and modern professional portfolio design focused on simplicity and readability. The layout uses a minimal colour palette, clear typography, and responsive sections to highlight personal information, skills, and projects effectively across different screen sizes.
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
@@ -139,11 +139,10 @@ Before submitting, verify:
 - [ ] Other: _______________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+One challenge I faced was making the website responsive across different screen sizes. Initially, some elements overlapped on smaller screens. I solved this by using a mobile-first approach and applying media queries at different breakpoints (768px and 1024px) to adjust layouts using Flexbox and CSS Grid.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
-
+All images used in this portfolio are original or created by the author. Web fonts were obtained from Google Fonts. Version control and hosting were managed using Git and GitHub.
 ---
 
 ## Academic Integrity
